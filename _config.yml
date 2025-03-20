@@ -13,7 +13,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://Carton_mk.github.io 
+url                      : https://carton_mk.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Carton_mk/Carton_mk.github.io"
 
