@@ -10,7 +10,7 @@ redirect_from:
 I received my Bachelor's degree in Automation from Fuzhou University in 2019,China. I am currently a second-year graduate student working on the interface of energy storage, power systems, electrochemistry, and artificial intelligence (AI). I work with Prof. Bizhong Xia and Xuan Zhang with a balanced focus on real-world application and theoretical depth.
 
 
-📝Publications
+Publications
 ======
 [1] LIANG C, TAO S, HUANG X, et al. Stochastic state of health estimation for lithium-ion batteries with automated feature fusion using quantum convolutional neural network [J]. Journal of Energy Chemistry, 2025.
 
