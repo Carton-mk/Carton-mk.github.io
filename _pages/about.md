@@ -32,6 +32,7 @@ Tsinghua University Social Work Scholarship  Sep. 2024
 ======
 .2024.05 - 2024.11, Autel Technology Research Intern in AI Omni-Scenario Business Unit 
  Physics based battery cycling data generation and foundational model
+
 .2023.09 - 2024.04, Shenzhen Municipal Committee of the Communist Youth League
  Deputy Executive Chairperson
 
