@@ -23,4 +23,5 @@ I received my Bachelor's degree in Automation from Fuzhou University in 2019,Chi
 🎖award
 ======
 Tsinghua University School-Level Scholarship	Nov. 2024
+
 Tsinghua University Outstanding Communist Party Member	July. 2024	
